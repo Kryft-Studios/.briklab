@@ -23,6 +23,8 @@ The rights granted in Section 1 are subject to the following strictly enforced l
 * **No Claim of Ownership:** You shall not register or attempt to register any trademark, domain name, or social media handle that is confusingly similar to the Brand Assets.
 * **No Impersonation:** You shall not use the Brand Assets in any way that suggests an official partnership, endorsement, or affiliation with BrikLab without express written consent.
 * **Integrity of Assets:** You shall not modify, stretch, recolor, or distort the Brand Assets. Usage must comply with the official **BrikLab Style Guide**.
+> ### Notice
+> **Briklab Style Guide** is not yet initialized.
 
 ### 3. ATTRIBUTION
 
