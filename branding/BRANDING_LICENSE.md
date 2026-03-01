@@ -44,4 +44,4 @@ THE BRAND ASSETS ARE PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
 
 ---
 
-*© 2026 BrikLab Project. All rights reserved. Build your world. Own your code.*
+*© 2026 BrikLab Project. All rights reserved. Where everyone is a scientist.*
