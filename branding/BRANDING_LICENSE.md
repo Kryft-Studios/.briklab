@@ -1,4 +1,3 @@
-### 📄 `BRANDING_LICENSE.md`
 
 # BrikLab Community Brand License
 
